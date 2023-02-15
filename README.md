@@ -23,9 +23,9 @@
                 margin:10px 15px;
                 
             
-   Afeter that we give text-decoratio:none,color: to list items..
-   Then we add a heading to our and and some paragraph for quick description of our App, a button and add an image.
-   After that we give some styles to them like..
+  Afeter that we give text-decoratio:none,color: to list items..
+  Then we add a heading to our and and some paragraph for quick description of our App, a button and add an image.
+  After that we give some styles to them like..
    
    
    
@@ -34,14 +34,11 @@
                  max-width:600px;
                 }
                 
+                       
                 
-                
-                
-    For heading we give font-size and color,for paragraph we add margin,color,font-size..
-    And  for button padding,font-size...
-    
-    Then we add some aninamion to what we want to goodlook for our app
-    
+  For heading we give font-size and color,for paragraph we add margin,color,font-size..
+  And  for button padding,font-size...
+  Then we add some aninamion to what we want to goodlook for our app
     
     
     
@@ -60,7 +57,7 @@
                   
                   
          
-    After all this the main animation of app we can add to those we wants to change..like buttons, heading,paragraph and image
+  After all this the main animation of app we can add to those we wants to change..like buttons, heading,paragraph and image
     
     
     
@@ -80,7 +77,7 @@
                 
                 
     
-    And then we add some animation delay to all the items to look some differently for one to another..
+  And then we add some animation delay to all the items to look some differently for one to another..
     
     
     
@@ -93,7 +90,7 @@
           
           
    
-    Like this we add some animations to our App 
+  Like this we add some animations to our App 
          
                    
     
